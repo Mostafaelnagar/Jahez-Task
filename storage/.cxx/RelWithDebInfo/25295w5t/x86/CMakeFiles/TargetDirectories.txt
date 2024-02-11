@@ -1,0 +1,3 @@
+/home/t-e-s/TesStudioProjects/JahezChat/storage/.cxx/RelWithDebInfo/25295w5t/x86/CMakeFiles/native-lib.dir
+/home/t-e-s/TesStudioProjects/JahezChat/storage/.cxx/RelWithDebInfo/25295w5t/x86/CMakeFiles/edit_cache.dir
+/home/t-e-s/TesStudioProjects/JahezChat/storage/.cxx/RelWithDebInfo/25295w5t/x86/CMakeFiles/rebuild_cache.dir

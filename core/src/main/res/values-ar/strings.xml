@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_internet">لا يوجد اتصال بالإنترنت، برجاء المحاولة فى وقت لاحق</string>
+    <string name="some_error">حدث خطأ ما، برجاء المحاولة فى وقت لاحق</string>
+
+</resources>

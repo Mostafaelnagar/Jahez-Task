@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="no_internet">No internet connection please try again later</string>
+    <string name="some_error">Some error occurred, Please try again later</string>
+    <string name="app_name" translatable="false">Jahez Chat</string>
+    <string name="app_name_debug" translatable="false">Jahez Chat Test</string>
+</resources>

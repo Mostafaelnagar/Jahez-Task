@@ -1,0 +1,27 @@
+{
+  "buildFiles": [
+    "/home/t-e-s/TesStudioProjects/JahezChat/storage/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/t-e-s/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/t-e-s/TesStudioProjects/JahezChat/storage/.cxx/Debug/6s2o1h6a/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/t-e-s/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/t-e-s/TesStudioProjects/JahezChat/storage/.cxx/Debug/6s2o1h6a/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "artifactName": "native-lib",
+      "abi": "x86",
+      "output": "/home/t-e-s/TesStudioProjects/JahezChat/storage/build/intermediates/cxx/Debug/6s2o1h6a/obj/x86/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}
