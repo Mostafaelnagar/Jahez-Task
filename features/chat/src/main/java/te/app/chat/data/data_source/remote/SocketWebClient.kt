@@ -10,7 +10,7 @@ import javax.inject.Inject
 class SocketWebClient @Inject constructor(
     private val chatRepository: ChatRepository
 ) {
-    private lateinit var webSocketClient: WebSocketClient
+    lateinit var webSocketClient: WebSocketClient
 
     init {
         provideWebClientSocket()
