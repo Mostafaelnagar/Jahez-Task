@@ -5,6 +5,7 @@ import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import app.te.navigation.ChatGraph
 import app.te.navigation.RootGraph
+import te.app.chat.presentation.nav_graph.chatNavGraph
 
 @Composable
 fun SetupNavGraph(
@@ -15,6 +16,6 @@ fun SetupNavGraph(
         route = RootGraph().destination,
         startDestination = ChatGraph().destination,
     ) {
-
+        chatNavGraph()
     }
 }
